@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "930827188217",
+    "firebase_url": "https://profound-media-214008.firebaseio.com",
+    "project_id": "profound-media-214008",
+    "storage_bucket": "profound-media-214008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930827188217:android:554547c115d9c057",
+        "android_client_info": {
+          "package_name": "com.example.younglings.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930827188217-dp2djfo1lhl6k2mqqeejqg9t2h9prui1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgoHwXXcjKQkGqelw5IsvUI4mgOQH3Kl4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
